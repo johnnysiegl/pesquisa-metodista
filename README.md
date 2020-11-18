@@ -1,5 +1,5 @@
 <h3 align="center">
-  #Projeto de Pesquisa - Igreja Metodista
+  ## Projeto de Pesquisa - Igreja Metodista
 </h3>
 
 ## 💻 Sobre o Projeto
@@ -15,9 +15,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [JavaScript](https://www.javascript.com/)
 
 Algumas das Bibliotecas usadas:
-- [ExcelJS] https://www.npmjs.com/package/exceljs
-- [NodeMailer] https://nodemailer.com/about/
-- [Mongoose] https://www.npmjs.com/package/mongoose
+- [ExcelJS](https://www.npmjs.com/package/exceljs)
+- [NodeMailer](https://nodemailer.com/about/)
+- [Mongoose](https://www.npmjs.com/package/mongoose)
 
 Banco:
-- [MongoDB Atlas] https://www.mongodb.com/cloud/atlas
+- [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
