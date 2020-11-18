@@ -1,5 +1,5 @@
 <h3 align="center">
-  ## Projeto de Pesquisa - Igreja Metodista
+  Projeto de Pesquisa - Igreja Metodista
 </h3>
 
 ## 💻 Sobre o Projeto
